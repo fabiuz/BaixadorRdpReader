@@ -20,6 +20,7 @@ namespace BaixadorRdpReader
         private void mnArquivoSair_Click(object sender, EventArgs e)
         {
             this.Close();
+
         }
     }
 }
